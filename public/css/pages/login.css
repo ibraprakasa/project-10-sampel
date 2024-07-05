@@ -1,0 +1,37 @@
+/* login */
+h3 {
+    font-family: sans-serif !important;
+    font-size: 15px !important;
+}
+
+/* gambar  setiap login */
+.image-container {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+}
+
+.image-container img {
+    width: 250px;
+    height: 250px;
+    transition: transform 0.3s ease;
+}
+
+.image-container:hover img {
+    transform: scale(1.1);
+}
+
+/* semua tag p */
+p {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* tombol kembali */
+.button-icon {
+    margin-right: 5px;
+}
+
+.button-container {
+    margin-top: 20px;
+}

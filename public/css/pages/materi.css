@@ -1,0 +1,12 @@
+
+#list-gambar {
+    height:18rem;
+    width:100%;
+    object-fit:cover;
+}
+.text-overlay h2{
+    color: #355389;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
